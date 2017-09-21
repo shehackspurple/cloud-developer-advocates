@@ -4,6 +4,9 @@ hide_bc: false
 title: Microsoft Cloud Developer Advocates
 description: Trusted advisors to developer and IT professionals.
 ---
+---
+twitterWidgets: true
+---
 <head>
 <script>
 alert('abc');
