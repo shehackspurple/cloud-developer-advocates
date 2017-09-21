@@ -7,12 +7,11 @@ description: Trusted advisors to developer and IT professionals.
 ---
 twitterWidgets: true
 ---
-<head>
-<script>
-alert('abc');
-</script>
-<link rel="stylesheet" type="text/css" href="./media/index.css">
-</head>
+
+## Twitter Grid
+
+
+<a class="twitter-grid" href="https://twitter.com/TwitterDev/timelines/539487832448843776">National Park Tweets</a>
 
 
 <div id="main" class="v2">
