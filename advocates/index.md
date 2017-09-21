@@ -4,16 +4,6 @@ hide_bc: false
 title: Microsoft Cloud Developer Advocates
 description: Trusted advisors to developer and IT professionals.
 ---
----
-twitterWidgets: true
----
-
-## Twitter Grid
-
-
-<a class="twitter-grid" href="https://twitter.com/TwitterDev/timelines/539487832448843776">National Park Tweets</a>
-
-
 <div id="main" class="v2">
     <div class="container">
         <h1> Cloud Developer Advocates</h1>
