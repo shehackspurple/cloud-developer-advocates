@@ -29,7 +29,7 @@ twitterWidgets: true
                         <div class="card">
                             <div class="cardImageOuter">
                                 <div class="cardImage">
-                                    <img src="media/profiles/aaron-wislang.png" alt="Picture of Aaron Wislang" data-linktype="internal" 
+                                    <img border-radius: 50%; src="media/profiles/aaron-wislang.png" alt="Picture of Aaron Wislang" data-linktype="internal" 
                                     style="width:220px;height:220px;">
                                 </div>
                             </div>
