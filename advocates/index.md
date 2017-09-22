@@ -17,7 +17,6 @@ twitterWidgets: true
     <h2>Recent Tweets</h2>
         <div>
         <a class="twitter-grid" data-partner="tweetdeck" href="https://twitter.com/NYTNow/timelines/576828964162965504">CDA Twitter Collection</a>
-            <img style="display:none;" width="100%" alt="Placeholder for a twitter widget to be added later" src="https://taylorlove.info/assets/img/twitter_collection_placeholder.png" />
         </div>
     </div>
     <div class="content">
