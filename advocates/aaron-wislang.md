@@ -8,9 +8,11 @@ ms.topic: article
 ms.date: 2017-09-18
 ms.author: Aaron Wislang
 ---
-
+<div>
+  <img style="border-radius: 50%;">
 ![Image of Aaron Wislang](media/profiles/aaron-wislang.png)
-
+</img>
+</div>
 # Aaron Wislang
 
 Principal Cloud Developer Advocate
