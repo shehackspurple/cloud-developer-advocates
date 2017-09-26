@@ -23,7 +23,6 @@ twitterWidgets: true
         <h2> Advocates </h2>
         <ul class="panelContent cardsW">
             <li>
-                <a href="./aaron-wislang" data-linktype="internal">
                 <div class="cardSize">
                     <div class="cardPadding">
                         <div class="card">
@@ -33,15 +32,14 @@ twitterWidgets: true
                                     style="border-radius:50%; width:220px;height:220px;">
                                 </div>
                             </div>
-                            <div class="cardText" style="margin-left: 4em;">
-                                <h3>Aaron Wislang</h3>
-                                <p>@as_w</p>
+                            <div class="cardText">
+                                <h3><a href="./aaron-wislang" data-linktype="internal">Aaron Wislang</a></h3>
+                                <p><a href="http://twitter.com/as_w">@as_w</a></p>
                                 <p>Linux</p>
                             </div>
                         </div>
                     </div>
                 </div>
-                </a>
             </li>
             <li>
                 <a href="./abel-wang" data-linktype="internal">
