@@ -606,7 +606,7 @@ twitterWidgets: true
                 </a>
             </li>
          <li>
-                <a href="./sarah-drasner" data-linktype="internal">
+             <a href="./sarah-drasner" data-linktype="internal">
                 <div class="cardSize">
                     <div class="cardPadding">
                         <div class="card">
