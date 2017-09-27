@@ -605,8 +605,7 @@ twitterWidgets: true
                 </div>
                 </a>
             </li>
-            
-            <li>
+         <li>
                 <a href="./sarah-drasner" data-linktype="internal">
                 <div class="cardSize">
                     <div class="cardPadding">
@@ -627,7 +626,6 @@ twitterWidgets: true
                 </div>
                 </a>
             </li>
-            
             <li>
                 <a href="./scott-cate" data-linktype="internal">
                 <div class="cardSize">
@@ -797,9 +795,11 @@ twitterWidgets: true
             </li>
         </ul>
     </div>
+<div id="main" class ="v2">    
  <div class="container">
     <h2>Recent Tweets</h2>
         <div>
         <a class="twitter-grid" data-partner="tweetdeck" href="https://twitter.com/msdev/timelines/912416037856985089">CDA Twitter Collection</a>
        </div>
+     </div>
     </div>
